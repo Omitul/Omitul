@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/T1mC5V3q/back.jpg)]
+[![MasterHead](https://postimg.cc/1VmpLN6f)](https://i.postimg.cc/T1mC5V3q/back.jpg)
 <h1 align="center">Hi 👋, I'm Omitul Islam Omi</h1>
 <h3 align="center">A passionate Competitive Programmer and Web technology enthusiast from Bangladesh</h3>
 <img align = "left" alt = "coding" width = "400" src = "https://stock.adobe.com/images/a-man-sits-at-a-computer-at-night-at-night-view-from-the-back-work-at-night-at-the-monitor-analytical-activities-in-the-dark-without-light/313404541">
