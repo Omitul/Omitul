@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-knjol&psig=AOvVaw3EbnTl9a3IDO55N8f8VXhP&ust=1713940476278000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLCgvPzb14UDFQAAAAAdAAAAABAJ)]
+[![MasterHead](https://i.postimg.cc/T1mC5V3q/back.jpg)]
 <h1 align="center">Hi 👋, I'm Omitul Islam Omi</h1>
 <h3 align="center">A passionate Competitive Programmer and Web technology enthusiast from Bangladesh</h3>
 <img align = "left" alt = "coding" width = "400" src = "https://stock.adobe.com/images/a-man-sits-at-a-computer-at-night-at-night-view-from-the-back-work-at-night-at-the-monitor-analytical-activities-in-the-dark-without-light/313404541">
