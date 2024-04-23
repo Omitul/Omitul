@@ -1,8 +1,10 @@
-[![MasterHead](https://i.postimg.cc/T1mC5V3q/back.jpg)](https://i.postimg.cc/T1mC5V3q/back.jpg){: width="100%"}
+<a href="https://i.postimg.cc/T1mC5V3q/back.jpg">
+  <img src="https://i.postimg.cc/T1mC5V3q/back.jpg" alt="MasterHead" style="width:100%;">
+</a>
 
 <h1 align="center">Hi 👋, I'm Omitul Islam Omi</h1>
 <h3 align="center">A passionate Competitive Programmer and Web technology enthusiast from Bangladesh</h3>
-<img align = "left" alt = "coding" width = "400" src = "https://stock.adobe.com/images/a-man-sits-at-a-computer-at-night-at-night-view-from-the-back-work-at-night-at-the-monitor-analytical-activities-in-the-dark-without-light/313404541">
+<img align = "left" alt = "coding" width = "400" src = "https://i.postimg.cc/DfBq5ptJ/okay.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omitul&label=Profile%20views&color=0e75b6&style=flat" alt="omitul" /> </p>
 
