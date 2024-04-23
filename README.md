@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Omitul Islam Omi</h1>
 <h3 align="center">A passionate Competitive Programmer and Web technology enthusiast from Bangladesh</h3>
-<img align = "left" alt = "coding" width = "400" src = "https://i.postimg.cc/DfBq5ptJ/okay.jpg">
+<img align = "left" alt = "coding" width = "400" src = "https://i.postimg.cc/pVGsydV6/dummu.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omitul&label=Profile%20views&color=0e75b6&style=flat" alt="omitul" /> </p>
 
