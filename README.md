@@ -10,11 +10,15 @@
 </div>
 <br clear="left"/>
 
-- 🌱 I’m currently learning **React JS, Node JS, MongoDB**
+- 🌱 I’m currently learning **Docker, Socker.IO**
+
+- 🌱 I've worked with ReactJS and NextJs
+
+- 🧠 I've solved around 2000 problems in different online judges
 
 - 📫 How to reach me **omitul11100@gmail.com**
 
-- ⚡ Fun fact **I'm afraid of Spider!**
+- ⚡ Fun fact **I'm always eager to learn something new, whether it's a programming language or a hobby! I can speak three languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
