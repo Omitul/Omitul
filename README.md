@@ -34,6 +34,9 @@
 <a href="https://www.facebook.com/mdomitul.islam.56" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="30" width="40" />
 </a>
+<a href="mailto:omitul11100@gmail.com" target="blank">
+  <img align="center" src="(https://i.postimg.cc/y8jY90cP/email.jpg)](https://postimg.cc/gxwWbXMX)" alt="Email" height="30" width="40" />
+</a>
 
 </p>
 
