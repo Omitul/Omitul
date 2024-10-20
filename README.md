@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Omitul Islam Omi</h1>
-<h3 align="center"><i>A passionate Competitive Programmer and Web Technology enthusiast from Bangladesh</i> 🚀💻</h3>
+<h3 align="center"><i>A passionate Competitive Programmer and Web Technology enthusiast from Bangladesh. I like to work with and explore new technologies and solve problems with code</i> 🚀💻</h3>
 
 <div>
 <img align="left" alt="coding" width="400" src="https://i.postimg.cc/pVGsydV6/dummu.gif">
