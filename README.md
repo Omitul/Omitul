@@ -5,11 +5,10 @@
 <h1 align="center">Hi 👋, I'm Omitul Islam Omi</h1>
 <h3 align="center"><i>A passionate Competitive Programmer and Web Technology enthusiast from Bangladesh</i> 🚀💻</h3>
 
+<div>
 <img align = "left" alt = "coding" width = "400" src = "https://i.postimg.cc/pVGsydV6/dummu.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omitul&label=Profile%20views&color=0e75b6&style=flat" alt="omitul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omitul" alt="omitul" /></a> </p>
+</div>
+<br clear="left"/>
 
 - 🌱 I’m currently learning **React JS, Node JS, MongoDB**
 
