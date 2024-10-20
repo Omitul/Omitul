@@ -1,6 +1,9 @@
-<a href="https://i.postimg.cc/T1mC5V3q/back.jpg">
-  <img src="https://i.postimg.cc/T1mC5V3q/back.jpg" alt="MasterHead" style="width:100%;">
-</a>
+<p align="center">
+  <a href="https://i.ibb.co/fCrPjv3/github-header-image-2.png">
+    <img src="https://i.ibb.co/fCrPjv3/github-header-image-2.png" alt="Header Image" width="900" height="300" />
+  </a>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Omitul Islam Omi</h1>
 <h3 align="center"><i>A passionate Competitive Programmer and Web Technology enthusiast from Bangladesh. I like to work with and explore new technologies and solve problems with code</i> 🚀💻</h3>
