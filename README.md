@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Docker, Socker.IO**
 
-- 🌱 I've worked with ReactJS and NextJs
+- 🌱 I've worked with ReactJS and NextJS
 
 - 🧠 I've solved around 2000 problems in different online judges
 
