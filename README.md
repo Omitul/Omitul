@@ -10,7 +10,7 @@
 </div>
 <br clear="left"/>
 
-- 🌱 I’m currently learning **Docker, Socker.IO**
+- 🌱 I’m currently learning **Docker, Socket.IO**
 
 - 🌱 I've worked with ReactJS and NextJS
 
