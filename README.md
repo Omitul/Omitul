@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://i.ibb.co/fCrPjv3/github-header-image-2.png">
-    <img src="https://i.ibb.co/fCrPjv3/github-header-image-2.png" alt="Header Image" width="900" height="300" />
+  <a href="https://i.postimg.cc/Xqh5F19z/Blue-Gold-Elegant-Minimalist-Digital-Marketer-Linked-In-Banner.png">
+    <img src="https://i.postimg.cc/Xqh5F19z/Blue-Gold-Elegant-Minimalist-Digital-Marketer-Linked-In-Banner.png" alt="Header Image" width="900" height="300" />
   </a>
 </p>
 
