@@ -32,7 +32,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jukerburg11" height="30" width="40" />
 </a>
 <a href="https://www.leetcode.com/omitul" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omi" height="30" width="40" />
+  <img align="center" src="https://i.postimg.cc/zGpYYSKf/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats-technology-social-media-company-vol-4.webp" alt="omi" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/mdomitul.islam.56" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="30" width="40" />
